@@ -36,6 +36,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="django" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />]
+[<img align="left" alt="angular" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.io%2Fpresskit&psig=AOvVaw14c0oqtCQIf3G7IXVo78EK&ust=1598244991017000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDy9N_EsOsCFQAAAAAdAAAAABAD" />]
+[<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />]
 
 
 <br />
@@ -57,7 +59,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="navdhakar's Github Stats" src="https://github-readme-stats.navdhakar.vercel.app/api?username=navdhakar&show_icons=true&hide_border=true" />
 
 </details>
 
