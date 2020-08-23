@@ -1,6 +1,6 @@
 ### Hi there, I'm navdeep  👋
 
-[![Website](https://img.shields.io/website?label=djdep.herokuapp&style=for-the-badge&url=https%3A%2F%2Fdjdep.herokuapp.com)](https://djdep.herokuapp.com/)
+[![Website](https://img.shields.io/website?label=djdep.herokuapp&style=for-the-badge&url=https://djdep.herokuapp.com/)](https://djdep.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nav_dhakar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavdhakar&screen_name=navdhakar)
 
 ## I'm a Computer science student, creative coding lover, web development enthusiast
