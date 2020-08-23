@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything that falls in my way🤣
 - 👯 I’m looking to contribute more in open-source 
 - 🥅 2020 Goals: create something big and open source
-- ⚡ Fun fact: I love painting but i have'nt painted in lomg time.
+- ⚡ Fun fact: I love painting but i have'nt painted in long time.
 
 ### Connect with me:
 
@@ -59,5 +59,5 @@
 [website]: https://djdep.herokuapp.com/
 [twitter]: https://twitter.com/nav_dhakar
 [instagram]: https://www.instagram.com/nav_dhakar
-[linkedin]: https://www.linkedin.com/in/navdeep-dhakar
+[linkedin]: https://www.linkedin.com/navdeep-dhakar
 [Facebook]: https://www.facebook.com/navdeep.dhakar
