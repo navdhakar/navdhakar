@@ -1,7 +1,7 @@
 ### Hi there, I'm navdeep  👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nav_dhakar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavdhakar&screen_name=navdhakar)
 
 ## I'm a Computer science student, creative coding lover, web development enthusiast
 
@@ -17,6 +17,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="navdhakar | Facebook" width="22px" src="https://img.icons8.com/android/50/000000/facebook-new.png" />][Facebook]
 
 <br />
 
@@ -36,25 +37,17 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="django" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />]
-[<img align="left" alt="angular" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.io%2Fpresskit&psig=AOvVaw14c0oqtCQIf3G7IXVo78EK&ust=1598244991017000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDy9N_EsOsCFQAAAAAdAAAAABAD" />]
-[<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />]
+[<img align="left" alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />]
+[<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />]
+[<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />]
+[<img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />]
+
+
 
 
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -63,8 +56,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://djdep.herokuapp.com/
+[twitter]: https://twitter.com/nav_dhakar
+[instagram]: https://www.instagram.com/nav_dhakar
+[linkedin]: https://www.linkedin.com/in/navdeep-dhakar
+[Facebook]: https://www.facebook.com/navdeep.dhakar
