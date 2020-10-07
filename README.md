@@ -5,7 +5,7 @@
 
 ## I'm a Computer science student, creative coding lover, web development enthusiast
 
-- 🔭 I'm currently working on my portifolio website with MEAN, Django-python and looking to extend it after.
+- 🔭 I'm currently working on on web project and my portifolio website with MEAN, Django-python and looking to extend it after.
 - 🌱 I’m currently learning everything that falls in my way🤣
 - 👯 I’m looking to contribute more in open-source 
 - 🥅 2020 Goals: create something big and open source
