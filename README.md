@@ -1,14 +1,14 @@
 ### Hi there, I'm navdeep  👋
 
 [![Website](https://img.shields.io/website?label=portifolio&style=for-the-badge&url=https://navdeep.netlify.app/)](https://navdeep.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nav_dhakar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavdhakar&screen_name=navdhakar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nav_dhakar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_navdeep&screen_name=dev_navdeep)
 
 ## I'm a Computer science student, creative coding lover, web development enthusiast
 
-- 🔭 I'm currently working on on web project and my portifolio website with MEAN, Django-python and looking to extend it after.
+- 🔭 I'm currently working on on web project Tipster where you can read and post programming related tips and tricks.
 - 🌱 I’m currently learning everything that falls in my way🤣
-- 👯 I’m looking to contribute more in open-source 
-- 🥅 2020 Goals: create something big and open source
+- 👯 Making educational youtube videos.
+- 🥅 2021 Goals: Financial freedom.
 - ⚡ Fun fact: I love painting but i have'nt painted in long time.
 
 ### Connect with me:
@@ -60,3 +60,4 @@
 [instagram]: https://www.instagram.com/nav_dhakar
 [linkedin]: https://www.linkedin.com/navdeep-dhakar
 [Facebook]: https://www.facebook.com/navdeep.dhakar
+[Youtube]:https://www.youtube.com/channel/UC0IR6UQE76T5g7DWtFVraEA
