@@ -1,7 +1,7 @@
 ### Hi there, I'm navdeep  👋
 
 [![Website](https://img.shields.io/website?label=portifolio&style=for-the-badge&url=https://navdeep.netlify.app/)](https://navdeep.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nav_dhakar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_navdeep&screen_name=dev_navdeep)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dev_navdeep?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_navdeep&screen_name=dev_navdeep)
 
 ## I'm a Computer science student, creative coding lover, web development enthusiast
 
